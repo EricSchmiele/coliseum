@@ -1,3 +1,8 @@
+Last updated: 03-2016
+Status: discontinued
+Main problem: slow animations and unbalanced gameplay
+Purpose: learning object oriented programming
+
 TÍTULO DO PROJETO: Coliseum
 
 PROPÓSITO DO PROJETO: criar um simples jogo de RPG do tipo arena para propósitos de entretenimento e aprendizado de conceitos de programação orientada a objeto utilizando a linguagem JAVA

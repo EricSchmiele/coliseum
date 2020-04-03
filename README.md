@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Coliseum" title="#coliseum" src="assets/logo.png" width="250px" />
+    <img alt="Coliseum" title="#coliseum" src="assets/logo.png" width="100px" />
 </h1>
 
 <h2 align="center">

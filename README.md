@@ -3,7 +3,7 @@
 </h1>
 
 <h2 align="center">
-  Java Game Project
+  Coliseum, a Java Game Project
 </h2>
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/e7r7i7c/coliseum">

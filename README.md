@@ -34,7 +34,7 @@
 <br>
 
 <p align="center">
-  <img alt="Main game screen" src="assets/screen.png" width="50%">
+  <img alt="Main game screen" src="assets/screen.png" width="25%">
 </p>
 
 ## About

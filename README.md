@@ -57,7 +57,7 @@ Observation: the execution is a bit slow. We believe it might be related to the 
 
 ## Running the application
 
-Execute, with your prefered JAVA running program the class GUI or GUI_2 (depending on your screen resolution).
+Execute, with your prefered JAVA running program, the class GUI or GUI_2 (depending on your screen resolution).
 
 ## Changing Game Characteristics
 
